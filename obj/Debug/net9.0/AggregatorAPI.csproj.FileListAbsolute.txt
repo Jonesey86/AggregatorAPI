@@ -1,0 +1,5 @@
+C:\Users\ianro\Desktop\AggregatorAPI\obj\Debug\net9.0\AggregatorAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ianro\Desktop\AggregatorAPI\obj\Debug\net9.0\AggregatorAPI.AssemblyInfoInputs.cache
+C:\Users\ianro\Desktop\AggregatorAPI\obj\Debug\net9.0\AggregatorAPI.AssemblyInfo.cs
+C:\Users\ianro\Desktop\AggregatorAPI\obj\Debug\net9.0\AggregatorAPI.csproj.CoreCompileInputs.cache
+C:\Users\ianro\Desktop\AggregatorAPI\obj\Debug\net9.0\AggregatorAPI.sourcelink.json
